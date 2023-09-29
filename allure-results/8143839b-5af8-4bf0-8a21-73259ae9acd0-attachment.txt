@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.TextView[contains(@class, \"android.widget.TextView\") and @text=\"Continue\"]"
+}

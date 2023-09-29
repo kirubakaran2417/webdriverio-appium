@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.ViewGroup[@content-desc=\"Tap me to open the settings menu\"]/android.widget.TextView\") and @text=\"Continue\"]"
+}
